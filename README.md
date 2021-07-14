@@ -13,4 +13,4 @@ Amorphous MgCuY alloy. The supercell contains 120 atoms.
 
 Amorphous CaMgZn alloy. The supercell contains 120 atoms. 
 
-![GitHub Logo](https://github.com/Dmitry-Skachkov/Voronoi3DPlot/blob/main/Example.jpg)
+![GitHub Logo](https://github.com/Dmitry-Skachkov/Voronoi3DPlot/blob/main/Example2.jpg)
