@@ -4,13 +4,20 @@
 
 # Example 1. 
 
-Amorphous MgCuY alloy. The supercell contains 120 atoms. 
+Supercell of amorphous MgCuY. 
 
 ![GitHub Logo](https://github.com/Dmitry-Skachkov/Voronoi3DPlot/blob/main/Example.jpg)
 
 
 # Example 2. 
 
-Amorphous CaMgZn alloy. The supercell contains 120 atoms. 
+Supercell of amorphous CaMgZn. 
 
 ![GitHub Logo](https://github.com/Dmitry-Skachkov/Voronoi3DPlot/blob/main/Example2.jpg)
+
+
+# Example 3. 
+
+Supercell of amorphous MgCu. 
+
+![GitHub Logo](https://github.com/Dmitry-Skachkov/Voronoi3DPlot/blob/main/Example3.jpg)
